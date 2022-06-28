@@ -1,0 +1,9 @@
+../.idea/
+myenv/
+*.png
+*.npy
+*.h5
+*.json
+*glove/
+*.tf
+*.pkl
